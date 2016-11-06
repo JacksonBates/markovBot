@@ -1,3 +1,7 @@
+# Examples
+
+[@_murakamibot](https://twitter.com/_murakamibot) and [@jamesjoycebot](https://twitter.com/jamesjoycebot)
+
 # Dependencies
 
 Install the `markovify` and `tweepy` packages:
